@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amank015&label=Profile%20views&color=0e75b6&style=flat" alt="amank015" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://fueler.io/amankhan_19](https://fueler.io/amankhan_19)
 
