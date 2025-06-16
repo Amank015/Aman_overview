@@ -1,3 +1,13 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Usman;Web+%26+Mobile+App+Developer;React+%7C+React+Native+%7C+Next.js;Crafting+Clean+Code+and+Beautiful+UIs!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
 # 💫 Hi 👋, I'm Aman Khan
 **A passionate Frontend Engineer**
 
@@ -14,9 +24,13 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 ## 🔗 I am a Frontend Developer. 😊😊
 
-# 💫 About Me:
-🔭 I’m currently working on:- Job Portal<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning:- React Native<br>💬 Ask me about:- JavaScript, ReactJS, React Native<br>⚡ Fun fact:- I love build innovative tech solutions
+## 🧠 About Me
 
+- 🇵🇰 Based in Pakistan — writing code and sipping chai  
+- 🧩 Building responsive web & mobile apps using **React**, **React Native**, and **Next.js**  
+- 🛠️ Love working with **JavaScript**, **ReactJS**, **React Native**, **TypeScript**, and **NodeJS**  
+- 🎨 Passionate about developing innovative tech solutions
+- 🔍 Always learning, always building — one commit at a time
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_software_engg_aman_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-khan-129761252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankhan.studyinbanmore@gmail.com) 
