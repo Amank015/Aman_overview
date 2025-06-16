@@ -1,15 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman;Web+%26+Mobile+App+Developer;React+%7C+React+Native+%7C+Next.js;Crafting+Clean+Code+and+Beautiful+UIs!" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://github.com/<Aman Khan>/<your-repo>/assets/<image-id>/frontend-banner.png" alt="Frontend Developer Banner" />
 </p>
 
----
 
 # 💫 Hi 👋, I'm Aman Khan
-**A passionate Frontend Engineer**
+**A passionate Frontend Engineer || JavaScript || React || React Native**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
