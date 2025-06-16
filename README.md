@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https:https://tse2.mm.bing.net/th?id=OIP.scWUy713zz1CG-P17wdolQHaEl&pid=Api&P=0&h=180<Aman Khan>/<your-repo>/assets/<image-id>/frontend-banner.png" alt="Frontend Developer Banner" />
+  <img src="https://chat.openai.com/share/file/00000000ae80622f8db3aa81975aefe1/A_digital_graphic_banner_features_Aman_Kumar,_a_Fr.png" alt="Frontend Developer Banner" />
 </p>
-
 
 # 💫 Hi 👋, I'm Aman Khan
 **A passionate Frontend Engineer || JavaScript || React || React Native**
