@@ -8,9 +8,9 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:**amankhan.studyinbanmore@gmail.com
+- 😄 **Pronouns:** Aman Khan
+- ⚡ **Fun fact:** I love to build innovative tech solutions
 
 ## 🔗 I am a Frontend Developer. 😊😊
 
