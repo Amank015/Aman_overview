@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Aman Khan
-**A passionate Frontend Engineer || JavaScript || React || React Native**
+**A passionate Frontend Engineer || JavaScript || ReactJS || NextJS**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
