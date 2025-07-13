@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Aman Khan
+# 💫 Hi 👋, I'm Aman Khan from India
 **A passionate Frontend Engineer || JavaScript || ReactJS || NextJS**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 ## 🧠 About Me
 
--🇮🇳 Based in India — writing code and sipping chai  
+-🇮🇳 Based in India — writing clean maintainable code and provide better user experience.
 - 🧩 Building responsive web & mobile apps using **React**, **React Native**, and **NextJS**  
 - 🛠️ Love working with **JavaScript**, **ReactJS**, **NextJS**, **TypeScript**, and **NodeJS**  
 - 🎨 Passionate about designing and developing smooth user interface and polished user experience
