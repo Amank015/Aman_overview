@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 -🇮🇳 Based in India — writing code and sipping chai  
 - 🧩 Building responsive web & mobile apps using **React**, **React Native**, and **NextJS**  
 - 🛠️ Love working with **JavaScript**, **ReactJS**, **NextJS**, **TypeScript**, and **NodeJS**  
-- 🎨 Passionate about developing innovative tech solutions
+- 🎨 Passionate about designing and developing smooth user interface and polished user experience
 - 🔍 Always learning, always building — one commit at a time
 
 ## 🌐 Socials:
