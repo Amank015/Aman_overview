@@ -15,8 +15,6 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 
 
-## 🔗 I am a Frontend Developer. 😊😊
-
 ## 🧠 About Me
 
 -🇮🇳 Based in India — writing clean maintainable code and provide better user experience.
