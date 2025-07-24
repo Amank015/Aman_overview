@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 💫 Hi 👋, I'm Aman Khan from India
 **A passionate Frontend Engineer || ReactJS || NextJS || Tailwind CSS || JS/TS || UI/UX**
 
@@ -20,9 +22,6 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 - 🛠️ Love working with **JavaScript**, **ReactJS**, **NextJS**, **TypeScript**, and **NodeJS**  
 - 🎨 Passionate about designing and developing smooth user interface and polished user experience
 - 🔍 Always learning, always building — one commit at a time
-
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ## 🌐 Socials:
