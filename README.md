@@ -13,11 +13,6 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 - ⚡ **Fun fact:** I love to build innovative tech solutions
 
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
 ## 🧠 About Me
 
 -🇮🇳 Based in India — writing clean maintainable code and provide better user experience.
@@ -25,6 +20,10 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 - 🛠️ Love working with **JavaScript**, **ReactJS**, **NextJS**, **TypeScript**, and **NodeJS**  
 - 🎨 Passionate about designing and developing smooth user interface and polished user experience
 - 🔍 Always learning, always building — one commit at a time
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_software_engg_aman_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-khan-129761252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankhan.studyinbanmore@gmail.com) 
