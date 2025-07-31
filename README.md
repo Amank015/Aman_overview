@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Backend Development
+- 🌱 **I’m currently learning:** Mobile Development
 - 👯 **I’m looking to collaborate on:** Job Portal using ReactJS & Shadcn-UI
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
