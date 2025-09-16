@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Mobile Development
-- 👯 **I’m looking to collaborate on:** AI powered Application Tracking System(ATS) using ReactJS
+- 👯 **I’m looking to collaborate on:** Currently, I'm working on AI powered Application tracking system(ATS) using ReactJS 
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**amankhan.studyinbanmore@gmail.com
