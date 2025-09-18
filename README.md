@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aman Khan from India 
-** Frontend Engineer || React 19 || NextJS || NodeJS || JS/TS || Tailwind CSS || UI/UX**
+**Frontend Engineer || React 19 || NextJS || NodeJS || JS/TS || Tailwind CSS || UI/UX**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
