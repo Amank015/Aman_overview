@@ -3,11 +3,6 @@
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Mobile Development
-- 👯 **I’m looking to collaborate on:** Currently, I'm working on AI powered Application tracking system(ATS) using ReactJS 
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**amankhan.studyinbanmore@gmail.com
 - 😄 **Pronouns:** Aman Khan
 - ⚡ **Fun fact:** I love to build innovative tech solutions
@@ -16,9 +11,9 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 ## 🧠 About Me
 
 -🇮🇳 Based in India — writing clean maintainable code and provide better user experience.
-- 🧩 Building Responsive and Modern Frontend Apps  using **React 19**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.
+- 🧩 Building Scalable and Performance Heavy Apps using **Node.js**, **TypeScript**, **Express.js**, and **PostgresSQL**.
 - 🛠️ Love working with **JavaScript**, **ReactJS**, **NextJS**, **TypeScript**, and **NodeJS**  
-- 🎨 Passionate about designing and developing smooth user interface and polished user experience
+- 🌐 Passionate about developing proudction ready backend systems
 - 🔍 Always learning, always building — one commit at a time
 
 
