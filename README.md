@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aman Khan from India 
-**Node.js Backend Engineer || Node.js || TypeScript || Express.js || Nest.js || PostgresSQL || REST APIs || React || Docker || AWS || Nginx || System Design**
+**Backend Engineer || Node.js || TypeScript || Express.js || Nest.js || PostgresSQL || REST APIs || React || Docker || AWS || Nginx || System Design**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 -🇮🇳 Based in India — writing clean maintainable code and provide better user experience.
 - 🧩 Building Scalable and Performance Heavy Apps using **Node.js**, **TypeScript**, **Express.js**, and **PostgresSQL**.
-- 🛠️ Love working with **JavaScript**, **ReactJS**, **NextJS**, **TypeScript**, and **NodeJS**  
+- 🛠️ Love working with **JavaScript**, **NodeJS**, **TypeScript**, **PostgreSQL**, and **AWS**  
 - 🌐 Passionate about developing proudction ready backend systems
 - 🔍 Always learning, always building — one commit at a time
 
