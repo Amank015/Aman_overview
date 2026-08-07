@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aman Khan from India 
-**Node.js Backend Engineer || Node.js || TypeScript || Express.js || Fastify || PostgresSQL || REST APIs || React || PERN Stack**
+**Node.js Backend Engineer || Node.js || TypeScript || Express.js || Nest.js || PostgresSQL || REST APIs || React || Docker || AWS || Nginx || System Design**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
