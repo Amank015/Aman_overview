@@ -46,27 +46,41 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amank015\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=6\&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=amank015&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Developer Quote
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Top Contributions
 
 <div align="center">
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=amank015\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=amank015&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+
+</div>
+
+---
+
+## 👀 Profile Activity
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amank015&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/amank015?label=Followers&style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/github/stars/amank015?label=Stars&style=for-the-badge&logo=github" />
 
 </div>
 
@@ -74,6 +88,6 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=amank015\&icon=0\&color=0)
+### 🚀 Building AI. Writing Code. Solving Problems.
 
 </div>
