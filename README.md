@@ -43,15 +43,37 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amank015&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amank015&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amank015\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=6\&row=1)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amank015&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=amank015\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=amank015\&icon=0\&color=0)
+
+</div>
