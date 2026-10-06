@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aman Khan from India 
-**Backend Engineer || Node.js || TypeScript || Kafka || Redis || PostgreSQL || Express.js || Nest.js || Docker || AWS || Nginx || System Design**
+**Agentic AI Engineer || Python || Fast API || LangChain || LangGraph || RAG || Docker || AWS || CI/CD pipelines** 
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
