@@ -44,50 +44,47 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amank015&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amank015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" width="100%" />
+</p>
 
 ---
 
-## ✍️ Developer Quote
+## ✍️ Random Dev Quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
 
 ---
 
-## 🔝 Top Contributions
+## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=amank015&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amank015&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amank015&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+</p>
 
 ---
 
-## 👀 Profile Activity
+## 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amank015&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" />
+</p>
+
+---
+
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=amank015&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/amank015?label=Followers&style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/stars/amank015?label=Stars&style=for-the-badge&logo=github" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building AI. Writing Code. Solving Problems.
-
-</div>
+</p>
