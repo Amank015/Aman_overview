@@ -42,13 +42,7 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 </div>
 
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amank015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" width="100%" />
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
@@ -67,24 +61,9 @@ Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Pro
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amank015&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+<div align="center">
 
----
+### 🤖 Building Intelligent Systems with Code, AI & Curiosity. 🚀
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" />
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amank015&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</p>
+</div>
