@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aman Khan from India 
-**Agentic AI Engineer || Python || Fast API || LangChain || LangGraph || RAG || Docker || AWS || CI/CD pipelines** 
+**Agentic AI Engineer || Python || Fast API || LangChain || LangGraph || RAG || Docker || AWS || CI/CD pipelines**
 
 Email Me 👉 ✉️ **amankhan.studyinbanmore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
